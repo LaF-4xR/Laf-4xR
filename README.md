@@ -7,8 +7,8 @@
 
 <ul>
   <li>🌱 I’m currently learning <strong>MERN</strong></li>
-  <li>💬 Ask me about <strong>React JS, Frontend development</strong></li>
-  <li>📫 How to reach me: <strong>sekharsurya111@gmail.com</strong></li>
+  <li>💬 Ask me about <strong>React JS, Node JS</strong></li>
+  <li>📫 How to reach me: <strong>dattabidwattam2024@gmail.com</strong></li>
   <li>⚡ Fun fact: <strong>I Love To Code And Watch Anime</strong></li>
 </ul>
 
