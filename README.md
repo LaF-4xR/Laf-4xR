@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<img align="right" height="143" src="https://i.pinimg.com/originals/a0/c3/3b/a0c33b235c109778a6db56a912c9be8c.gif"  />
+<img align="right" height="200" src="https://i.pinimg.com/originals/a0/c3/3b/a0c33b235c109778a6db56a912c9be8c.gif"  />
 
 ###
 
@@ -30,7 +30,7 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
