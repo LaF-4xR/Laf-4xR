@@ -36,7 +36,7 @@
 
 <br clear="both">
 
-<h2 align="Center">Language and Tools</h2>
+<h2 align="Center">Languages and Tools</h2>
 
 ###
 
